@@ -12,9 +12,9 @@ TODO
 > [Roadmap](https://roadmap.sh/r/docker-roadmap-m7t8c)
 
 - [Basics](./theory/1-basics.md)
-<!-- TODO
 - [Setup](./theory/2-setup.md)
 - [Docker CLI](./theory/3-docker-cli.md)
+<!-- TODO
 - [Images](./theory/4-images.md)
 - [Deployment](./theory/5-deployment.md)
 - [Data Persistence](./theory/6-data-persistence.md)
