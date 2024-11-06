@@ -1,9 +1,9 @@
 # Docker CLI
 
+- [Official Documentation](https://docs.docker.com/reference/cli/docker/)
+
 The Docker CLI is a powerful tool used to interact with the Docker engine.  
 With a wide range of commands, the Docker CLI provides control over all aspects of Docker.
-
-- [Official Documentation](https://docs.docker.com/reference/cli/docker/)
 
 - [Images](#images)
 - [Volumes](#volumes)

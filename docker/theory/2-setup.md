@@ -7,7 +7,7 @@ This guide provides step-by-step instructions for installing Docker.
 By the end of this guide, you will have Docker installed on your Linux machine.
 
 - [Installation](#installation)
-  - [Uninstall old versions](#uninstall-old-versions)
+  - [Uninstall conflicting packages](#uninstall-conflicting-packages)
   - [Installation (using apt repository)](#installation-using-apt-repository)
   - [Verifying installation](#verifying-installation)
 - [Config](#config)
@@ -25,7 +25,7 @@ By the end of this guide, you will have Docker installed on your Linux machine.
 > - Debian Bookworm 12 (stable)
 > - Debian Bullseye 11 (oldstable)
 
-### Uninstall old versions
+### Uninstall conflicting packages
 
 Before you can install Docker Engine, you should uninstall any conflicting packages.  
 You should always run this before installing, even if you have a fresh OS installation.
