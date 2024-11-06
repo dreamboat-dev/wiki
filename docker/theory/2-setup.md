@@ -138,7 +138,7 @@ To avoid issues with overusing disk space for logs, consider doing the following
 
 Add the following to your `daemon.json` (located in `/etc/docker/`):
 
-```json
+```jsonc
 {
   "log-driver": "json-file",
   "log-opts": {
