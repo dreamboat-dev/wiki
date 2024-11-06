@@ -1,15 +1,15 @@
 # Docker
 
 > This is a beginner course for Docker.  
+>
+> - [Roadmap](https://roadmap.sh/r/docker-roadmap-m7t8c)
 
-<!-- 
-TODO 
 ## Practice
--->
+
+- [Installation](./practice/1-installation.md)
+- [Nginx](./practice/2-nginx.md)
 
 ## Theory
-
-> [Roadmap](https://roadmap.sh/r/docker-roadmap-m7t8c)
 
 - [Basics](./theory/1-basics.md)
 - [Setup](./theory/2-setup.md)
