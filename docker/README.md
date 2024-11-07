@@ -7,8 +7,6 @@
 ```mermaid
 flowchart TB
     subgraph LJ1
-        direction TB
-
         research_basics(Docker - Research: Basics)
         practice_setup(Docker - Practice: Setup)
         theory_docker_cli(Docker - Theory: Docker CLI)
