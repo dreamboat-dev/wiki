@@ -4,6 +4,22 @@
 
 ## Tasks
 
+```mermaid
+flowchart TB
+    subgraph LJ1
+        direction TB
+
+        research_basics(Docker - Research: Basics)
+        practice_setup(Docker - Practice: Setup)
+        theory_docker_cli(Docker - Theory: Docker CLI)
+        practice_nginx(Docker - Practice: Nginx)
+
+        research_basics --> practice_setup --> theory_docker_cli --> practice_nginx
+    end
+```
+
+---
+
 ### LJ1
 
 #### Docker - Research: Basics
